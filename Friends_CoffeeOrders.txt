@@ -1,0 +1,7 @@
+Character	FavouriteCoffee	Orders
+Rachel	Latte	12
+Ross	Espresso	8
+Monica	Cappuccino	15
+Chandler	Americano	9
+Joey	Mocha	20
+Phoebe	Herbal Tea	7

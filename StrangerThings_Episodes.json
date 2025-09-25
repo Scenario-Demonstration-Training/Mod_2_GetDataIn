@@ -1,0 +1,14 @@
+{
+  "Season1": [
+    {
+      "Episode": 1,
+      "Title": "The Vanishing of Will Byers",
+      "IMDB": 8.5
+    },
+    {
+      "Episode": 2,
+      "Title": "The Weirdo on Maple Street",
+      "IMDB": 8.2
+    }
+  ]
+}
