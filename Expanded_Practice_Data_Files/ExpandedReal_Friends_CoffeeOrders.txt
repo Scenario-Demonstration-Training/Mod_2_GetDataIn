@@ -1,0 +1,21 @@
+Character	FavouriteCoffee	Orders	Visits
+Ross Geller	Black coffee	15	10
+Rachel Green	Mocha latte	20	12
+Monica Geller	Cappuccino	18	14
+Chandler Bing	Decaf	22	16
+Joey Tribbiani	Caramel Frappuccino	30	20
+Phoebe Buffay	Herbal tea	12	8
+Gunther	Espresso	40	25
+Janice	Latte	10	5
+Mike Hannigan	Green tea	8	4
+Carol	Americano	6	3
+Susan	Flat White	9	7
+Estelle	Iced Latte	11	9
+Richard Burke	Cappuccino	5	3
+Emily Waltham	Mocha	7	4
+Kathy	Latte	4	2
+Pete Becker	Espresso	13	8
+Eddie	Americano	3	1
+Mr. Heckles	Decaf	2	1
+Ursula Buffay	Herbal tea	1	1
+Jack Geller	Macchiato	6	2

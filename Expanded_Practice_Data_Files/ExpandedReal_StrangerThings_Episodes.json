@@ -1,0 +1,124 @@
+{
+  "Episodes": [
+    {
+      "Season": 1,
+      "Episode": 1,
+      "Title": "The Vanishing of Will Byers",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 2,
+      "Title": "The Weirdo on Maple Street",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 3,
+      "Title": "Holly, Jolly",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 4,
+      "Title": "The Body",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 5,
+      "Title": "The Flea and the Acrobat",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 6,
+      "Title": "The Monster",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 7,
+      "Title": "The Bathtub",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 1,
+      "Episode": 8,
+      "Title": "The Upside Down",
+      "AirDate": "2016-07-15"
+    },
+    {
+      "Season": 2,
+      "Episode": 1,
+      "Title": "MADMAX",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 2,
+      "Title": "Trick or Treat, Freak",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 3,
+      "Title": "The Pollywog",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 4,
+      "Title": "Will the Wise",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 5,
+      "Title": "Dig Dug",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 6,
+      "Title": "The Spy",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 7,
+      "Title": "The Lost Sister",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 8,
+      "Title": "The Mind Flayer",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 2,
+      "Episode": 9,
+      "Title": "The Gate",
+      "AirDate": "2017-10-27"
+    },
+    {
+      "Season": 3,
+      "Episode": 1,
+      "Title": "Suzie, Do You Copy?",
+      "AirDate": "2019-07-04"
+    },
+    {
+      "Season": 3,
+      "Episode": 2,
+      "Title": "The Mall Rats",
+      "AirDate": "2019-07-04"
+    },
+    {
+      "Season": 3,
+      "Episode": 3,
+      "Title": "The Case of the Missing Lifeguard",
+      "AirDate": "2019-07-04"
+    }
+  ]
+}

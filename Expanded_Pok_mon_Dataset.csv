@@ -1,0 +1,21 @@
+PokemonID,Name,Type,EvolutionStage,Region,Base_HP,Base_Attack,Base_Defense,Legendary,CaptureRate,Abilities
+25,Pikachu,Electric,1,Kanto,35,55,40,No,190,Static
+1,Bulbasaur,Grass/Poison,1,Kanto,45,49,49,No,45,Overgrow
+4,Charmander,Fire,1,Kanto,39,52,43,No,45,Blaze
+7,Squirtle,Water,1,Kanto,44,48,65,No,45,Torrent
+150,Mewtwo,Psychic,3,Kanto,106,110,90,Yes,3,Pressure
+151,Mew,Psychic,3,Kanto,100,100,100,Yes,45,Synchronize
+133,Eevee,Normal,1,Kanto,55,55,50,No,45,Run Away
+94,Gengar,Ghost/Poison,3,Kanto,60,65,60,No,45,Cursed Body
+143,Snorlax,Normal,3,Kanto,160,110,65,No,25,Immunity
+248,Tyranitar,Rock/Dark,3,Johto,100,134,110,No,45,Sand Stream
+249,Lugia,Psychic/Flying,3,Johto,106,90,130,Yes,3,Pressure
+250,Ho-Oh,Fire/Flying,3,Johto,106,130,90,Yes,3,Pressure
+382,Kyogre,Water,3,Hoenn,100,100,90,Yes,3,Drizzle
+383,Groudon,Ground,3,Hoenn,100,150,140,Yes,3,Drought
+384,Rayquaza,Dragon/Flying,3,Hoenn,105,150,90,Yes,3,Air Lock
+395,Empoleon,Water/Steel,3,Sinnoh,84,86,88,No,45,Torrent
+448,Lucario,Fighting/Steel,2,Sinnoh,70,110,70,No,45,Steadfast
+479,Rotom,Electric/Ghost,2,Sinnoh,50,65,107,No,45,Levitate
+606,Beheeyem,Psychic,2,Unova,75,75,75,No,45,Telepathy
+635,Hydreigon,Dark/Dragon,3,Unova,92,105,90,No,45,Levitate

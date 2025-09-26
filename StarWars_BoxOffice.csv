@@ -1,5 +1,19 @@
-Title,ReleaseYear,WorldwideGross,RottenTomatoesScore
-A New Hope,1977,775000000,93
-The Empire Strikes Back,1980,538000000,94
-Return of the Jedi,1983,475000000,82
-The Force Awakens,2015,2070000000,93
+Title,ReleaseYear,Type,WorldwideGross,RottenTomatoesScore,Budget,OpeningWeekend,IMDB_Rating,Seasons,Episodes,Main_Character,Director_Showrunner,Platform,Canon
+A New Hope,1977,Film,775000000.0,93,11000000.0,15000000.0,8.6,,,Luke Skywalker,George Lucas,Cinema,Yes
+The Empire Strikes Back,1980,Film,538000000.0,94,18000000.0,20000000.0,8.7,,,Luke Skywalker,Irvin Kershner,Cinema,Yes
+Return of the Jedi,1983,Film,475000000.0,82,32500000.0,23000000.0,8.3,,,Luke Skywalker,Richard Marquand,Cinema,Yes
+The Phantom Menace,1999,Film,1027000000.0,52,115000000.0,64000000.0,6.5,,,Anakin Skywalker,George Lucas,Cinema,Yes
+Attack of the Clones,2002,Film,653000000.0,65,115000000.0,80000000.0,6.6,,,Anakin Skywalker,George Lucas,Cinema,Yes
+Revenge of the Sith,2005,Film,868000000.0,79,113000000.0,108000000.0,7.6,,,Anakin Skywalker,George Lucas,Cinema,Yes
+The Force Awakens,2015,Film,2070000000.0,93,245000000.0,248000000.0,7.8,,,Rey,J.J. Abrams,Cinema,Yes
+The Last Jedi,2017,Film,1333000000.0,91,200000000.0,220000000.0,6.9,,,Rey,Rian Johnson,Cinema,Yes
+The Rise of Skywalker,2019,Film,1074000000.0,52,275000000.0,177000000.0,6.5,,,Rey,J.J. Abrams,Cinema,Yes
+Rogue One,2016,Film,1056000000.0,84,200000000.0,155000000.0,7.8,,,Jyn Erso,Gareth Edwards,Cinema,Yes
+Solo,2018,Film,393000000.0,70,275000000.0,84000000.0,6.9,,,Han Solo,Ron Howard,Cinema,Yes
+The Clone Wars,2008,Series,,92,,,8.1,7.0,133.0,Anakin Skywalker,Dave Filoni,Cartoon Network/Disney+,Yes
+Rebels,2014,Series,,98,,,8.0,4.0,75.0,Ezra Bridger,Dave Filoni,Disney XD,Yes
+The Mandalorian,2019,Series,,90,,,8.7,3.0,24.0,Din Djarin,Jon Favreau,Disney+,Yes
+The Book of Boba Fett,2021,Series,,66,,,7.3,1.0,7.0,Boba Fett,Jon Favreau,Disney+,Yes
+Obi-Wan Kenobi,2022,Series,,82,,,7.1,1.0,6.0,Obi-Wan Kenobi,Deborah Chow,Disney+,Yes
+Andor,2022,Series,,96,,,8.4,1.0,12.0,Cassian Andor,Tony Gilroy,Disney+,Yes
+Ahsoka,2023,Series,,85,,,7.9,1.0,8.0,Ahsoka Tano,Dave Filoni,Disney+,Yes
